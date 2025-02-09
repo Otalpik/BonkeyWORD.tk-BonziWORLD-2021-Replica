@@ -127,7 +127,7 @@
 		"pink"
 	],
 	"banLength": 1440,
-	"port": 3001,
+	"port": 3000,
 	"express": {
 		"serveStatic": true
 	}
